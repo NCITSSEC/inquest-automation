@@ -17,7 +17,7 @@ excluded_artifacts = {
     "157.240.215.174", "bd2c2cf0631d881ed382817afcce2b093f4e412ffb170a719e2762f250abfea4",
     "github.com", "marketplace.visualstudio.com", "www.baidu.com", "www.sogou.com", "www.w3.org",
     "www.clarity.ms", "www.instagram.com", "1.1.1.1", "th.bing.com", "steamcommunity.com",
-    "bitbucket.org", "oauth2.googleapis.com", "forms.office.com", "huggingface.co", "wix.com", "weaviate.io", "msrc.microsoft.com","raw.githubusercontent.com","build.nvidia.com","www.youtube.com","success.trendmicro.com", "www.elastic.co"
+    "bitbucket.org", "oauth2.googleapis.com", "forms.office.com", "huggingface.co", "wix.com", "weaviate.io", "msrc.microsoft.com","raw.githubusercontent.com","build.nvidia.com","www.youtube.com","success.trendmicro.com", "www.elastic.co", "youtu.be"
 }
 
 # 제외할 타입
