@@ -52,7 +52,9 @@ excluded_artifacts = {
     "www.sogou.com",
     "steamcommunity.com",
     "wix.com",
-    "s.go-mpulse.net"
+    "s.go-mpulse.net",
+    "slack.com",
+    "52.196.128.139"
 }
 
 # 제외할 타입
