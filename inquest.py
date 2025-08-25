@@ -55,7 +55,10 @@ excluded_artifacts = {
     "s.go-mpulse.net",
     "slack.com",
     "52.196.128.139",
-    "resources.trendmicro.com"
+    "resources.trendmicro.com",
+    "162.159.129.233",
+    "162.159.134.233",
+    "cdn.discordapp.com"
 }
 
 # 제외할 타입
