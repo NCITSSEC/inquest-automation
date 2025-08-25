@@ -58,7 +58,8 @@ excluded_artifacts = {
     "resources.trendmicro.com",
     "162.159.129.233",
     "162.159.134.233",
-    "cdn.discordapp.com"
+    "cdn.discordapp.com",
+    "aws.amazon.com"
 }
 
 # 제외할 타입
