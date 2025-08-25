@@ -54,7 +54,8 @@ excluded_artifacts = {
     "wix.com",
     "s.go-mpulse.net",
     "slack.com",
-    "52.196.128.139"
+    "52.196.128.139",
+    "resources.trendmicro.com"
 }
 
 # 제외할 타입
