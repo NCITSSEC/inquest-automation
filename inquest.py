@@ -59,7 +59,8 @@ excluded_artifacts = {
     "162.159.129.233",
     "162.159.134.233",
     "cdn.discordapp.com",
-    "aws.amazon.com"
+    "aws.amazon.com",
+    "gmail.com"
 }
 
 # 제외할 타입
