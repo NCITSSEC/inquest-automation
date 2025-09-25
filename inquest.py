@@ -61,7 +61,17 @@ excluded_artifacts = {
     "cdn.discordapp.com",
     "aws.amazon.com",
     "gmail.com",
-    "www.nist.gov"
+    "www.nist.gov",
+    "twitter.com",
+    "slack.com",
+    "onedrive.live.com"
+    "en.wikipedia.org",
+    "13.57.92.51",
+    "151.101.2.137",
+    "192.0.78.13",
+    "192.124.249.10",
+    "204.79.197.200",
+    "52.167.249.196"    
 }
 
 # 제외할 타입
