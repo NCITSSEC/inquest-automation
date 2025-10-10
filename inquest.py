@@ -76,6 +76,7 @@ excluded_artifacts = {
     "assets-global.website-files.com",
     "34.117.59.81",
     "104.21."
+    "192.0.78.12"
 }
 
 # 제외할 타입
